@@ -1,0 +1,31 @@
+ClientID : StoreID : Items : OrderDateTime :Express
+1; 101; [Café 2.5, Sandes de Queijo 3.0], 2023-05-01T09:15; true
+6; 101; [Tosta Mista 5.0, Coca-Cola 3.5], 2023-05-03T12:15; true
+11; 101; [Café com Leite 3.5, Sandes de Queijo 3.0], 2023-05-05T15:45; true
+16; 101; [Chá de Camomila 2.0, Salgado de Queijo 2.5], 2023-05-08T14:30; false
+21; 101; [Café com Leite 3.5, Sandes de Queijo 3.0, Tosta Mista 5.0, Refrigerante Guaraná 3.0], 2023-05-10T12:15; false
+26; 101; [Café com Leite 3.5, Sandes de Queijo 3.0, Tosta Mista 5.0, Refrigerante Guaraná 3.0], 2023-05-12T15:45; false
+40; 200; [], 2020-12-12T12:12; true
+2; 102; [Cappuccino 4.5, Bolo de Chocolate 5.5], 2023-05-01T09:30; false
+8; 102; [Cappuccino 4.5, Bolo de Cenoura 5.0], 2023-05-04T09:45; true
+13; 102; [Chá de Hortelã 2.0, Bolo de Chocolate 5.5], 2023-05-06T11:45; true
+18; 102; [Café com Leite 3.5, Bolo de Cenoura 5.0], 2023-05-09T08:45; true
+23; 102; [Cappuccino 4.5, Bolo de Cenoura 5.0, Chá de Hortelã 2.0], 2023-05-11T09:45; true
+28; 102; [Cappuccino 4.5, Bolo de Cenoura 5.0, Chá de Hortelã 2.0], 2023-05-13T11:45; true
+3; 103; [�?gua Mineral 1.5, Pão Francês 1.0], 2023-05-01T10:00; true
+7; 103; [Café Expresso 2.5, Sandes de Queijo 3.0], 2023-05-03T14:00; false
+12; 103; [Café Expresso 2.5, Croissant 2.5], 2023-05-06T10:15; false
+17; 103; [Tosta Mista 5.0, Refrigerante Coca-Cola 3.5], 2023-05-08T16:15; false
+22; 103; [Café Expresso 2.5, Croissant 2.5, �?gua Mineral 1.5, Pão Francês 1.0], 2023-05-10T14:00; true
+27; 103; [Café Expresso 2.5, Croissant 2.5, �?gua Mineral 1.5, Pão Francês 1.0], 2023-05-13T10:15; true
+4; 104; [Café com Leite 3.5, Sandes de Presunto 4.0], 2023-05-02T08:45; false
+9; 104; [Sumo de Laranja 3.0, Salada de Frutas 4.5], 2023-05-04T11:30; false
+14; 104; [�?gua Mineral 1.5, Pão Francês 1.0], 2023-05-07T09:30; false
+19; 104; [Café Expresso 2.5, Sumo de Laranja 3.0], 2023-05-09T10:30; true
+24; 104; [Sumo de Laranja 3.0, Salada de Frutas 4.5, Sandes de Frango 6.5], 2023-05-11T11:30; false
+29; 104; [Sumo de Laranja 3.0, Salada de Frutas 4.5, Sandes de Frango 6.5], 2023-05-14T09:30; false
+5; 105; [Chá de Erva-Cidreira 2.0, Torta de Frango 6.0], 2023-05-02T10:30; false
+10; 105; [Sandes de Frango 6.5, Refrigerante Guaraná 3.0], 2023-05-05T13:00; false
+15; 105; [Café 2.5, Sandes de Presunto 4.0], 2023-05-07T12:00; true
+25; 105; [Café 2.5, Sandes de Presunto 4.0], 2023-05-12T13:00; true
+30; 105; [Café 2.5, Sandes de Presunto 4.0, Chá de Erva-Cidreira 2.0, Torta de Frango 6.0], 2023-05-14T12:00; true

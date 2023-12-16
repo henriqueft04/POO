@@ -1,0 +1,10 @@
+Companhia               Atraso Medio
+ TAAG                   10.0    
+ Sata Internacional     35.0    
+null                    26.0    
+ EasyJet Airlines       30.0    
+ Iberia                 25.0    
+ Transavia France       29.0    
+ TAP Portugal           27.0    
+ Lufthansa              3.0     
+ Ryanair                22.0    
